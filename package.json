@@ -1,0 +1,34 @@
+{
+  "name": "pg-crud",
+  "version": "1.0.0",
+  "description": "Postgresql database interface for crud operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randysimpson/pg-crud.git"
+  },
+  "keywords": [
+    "Postgres",
+    "Postgresql",
+    "Psql",
+    "CRUD",
+    "restAPI",
+    "SQL",
+    "Database"
+  ],
+  "author": {
+    "email": "chipdawg112@msn.com",
+    "name": "Randall Simpson"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/randysimpson/pg-crud/issues"
+  },
+  "homepage": "https://github.com/randysimpson/pg-crud#readme",
+  "dependencies": {
+    "pg": "^7.17.1"
+  }
+}
