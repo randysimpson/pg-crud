@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/randysimpson/pg-crud#readme",
   "dependencies": {
-    "pg": "^7.17.1"
+    "pg": "^8.11.0"
   }
 }
